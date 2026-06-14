@@ -2,8 +2,8 @@
 
 ## About Me
 - I'm currently learning programming.
-- I'm interested in Python, Javascript, css and HTML.
-- I'm looking to collaborate on beginner-friendly open source projects.
+- I'm interested in Python, JavaScript and HTML/CSS.
+- I'm looking to collaborate on beginner-friendly open-source projects.
 
 ## Skills I'm Building
 - Git and GitHub
