@@ -1,2 +1,18 @@
-# thomas
-I am a tech enthusiast and developer. Spends my time crafting responsive web experiences with HTML, CSS, and JavaScript, and solving complex puzzles using Python.  Let's connect!
+# Hi, I'm Thomas
+
+## About Me
+- I'm currently learning programming.
+- I'm interested in Python, Javascript, css and HTML.
+- I'm looking to collaborate on beginner-friendly open source projects.
+
+## Skills I'm Building
+- Git and GitHub
+- Python
+- Javascript
+- HTML/CSS 
+
+## Current Projects
+- my portfolio 
+
+## How to Reach Me
+- Email: thomaskimani68@gmail.com
