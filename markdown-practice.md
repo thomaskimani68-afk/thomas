@@ -30,7 +30,7 @@ I want to improve my **problem-solving** skills, become more *consistent* with c
 
 ---
 
-## Exercise 6 — Task List
+## Task list
 
 - [x] Install Git
 - [x] Create a GitHub account
